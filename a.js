@@ -15,4 +15,4 @@ const fd = 6
 
 const gd = 7
 
-console.log("Git is free software ...");
+console.log("Git is a free software ...");
