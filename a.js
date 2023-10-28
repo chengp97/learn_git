@@ -12,3 +12,5 @@ const em = 5
 const ef = 5
 
 const fd = 6
+
+const gd = 7
