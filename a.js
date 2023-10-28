@@ -10,3 +10,5 @@ const df = 4
 
 const em = 5
 const ef = 5
+
+const fd = 6
