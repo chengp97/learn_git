@@ -7,3 +7,5 @@ const c = 3
 const dm = 4
 
 const df = 4
+
+const ef = 5
